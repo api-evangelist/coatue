@@ -1,0 +1,76 @@
+aid: coatue
+name: Coatue Management
+description: >-
+  Coatue Management is a global technology-focused investment manager founded in
+  1999 by Philippe Laffont, headquartered in New York City with offices in Menlo
+  Park, San Francisco, London, and Hong Kong. Originally launched as a
+  technology hedge fund, Coatue now invests across public and private markets
+  through venture, growth, tactical (structured debt and equity), and public
+  equities strategies, emphasizing data-driven research and responsible risk
+  management. The firm backs disruptive, high-growth technology companies with a
+  strong current thesis around artificial intelligence, software, cloud and data
+  infrastructure, fintech, and frontier/space, writing checks that range from
+  early-stage venture ($500K–$10M) through large growth and public-market
+  allocations. Coatue managed roughly $54–55B in assets as of end of 2024 and
+  counts Anthropic, OpenAI, Databricks, Stripe, SpaceX, Figma, and Cursor among
+  its private portfolio companies.
+x-type: venture-capital
+x-category: Growth Equity
+image: https://www.coatue.com/favicon.ico
+tags:
+  - Venture Capital
+  - Growth Equity
+  - Seed
+  - Series A
+  - Artificial Intelligence
+  - Infrastructure
+  - Fintech
+  - Developer Tools
+  - Technology
+  - North America
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.coatue.com
+  - type: Portfolio
+    url: https://www.coatue.com/privates-portfolio
+  - type: Portfolio
+    url: portfolio/coatue-portfolio.yml
+  - type: Team
+    url: team/coatue-team.yml
+  - type: Blog
+    url: https://www.coatue.com/c/takes
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/coatue
+  - type: Twitter
+    url: https://x.com/coatuemgmt
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/coatue-management
+  - type: Jobs
+    url: mailto:talent@coatue.com
+  - type: Contact
+    url: mailto:media@coatue.com
+  - type: Features
+    data:
+      - 'Stage: Seed, Series A/B, Growth, Public markets'
+      - 'Typical check: $500K–$10M early-stage; large growth and public allocations'
+      - 'Sectors: AI, software, cloud and data infrastructure, fintech, frontier/space'
+      - 'Geography: Global (US, Europe, Asia)'
+      - 'AUM: ~$54–55B (as of end 2024)'
+      - 'Founded: 1999'
+      - 'HQ: New York, NY'
+    sources:
+      - https://www.coatue.com
+      - https://en.wikipedia.org/wiki/Coatue_Management
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Coatue Management
+    url: https://www.coatue.com

@@ -1,0 +1,327 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.coatue.com/privates-portfolio
+summary:
+  portfolio_total: 29
+  in_network: 27
+  api_providers: 22
+  missing: 2
+  stubs_created: 0
+companies:
+- name: Anduril Industries
+  url: https://www.anduril.com
+  description: Defense technology company building autonomous systems and AI-driven hardware/software.
+  sector: defense
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: anduril
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Anthropic
+  url: https://www.anthropic.com
+  description: AI safety company building the Claude family of large language models.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ByteDance
+  url: https://www.bytedance.com
+  description: Technology company behind TikTok and a portfolio of content and AI platforms.
+  sector: consumer-internet
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bytedance
+- name: Canva
+  url: https://www.canva.com
+  description: Online visual design and publishing platform.
+  sector: design
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: canva
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cerebras Systems
+  url: https://www.cerebras.net
+  description: AI compute company building wafer-scale processors for deep learning.
+  sector: ai-infrastructure
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cerebras-systems
+- name: ClickHouse
+  url: https://www.clickhouse.com
+  description: Open-source column-oriented database for real-time analytics.
+  sector: data-infrastructure
+  stage: series-b
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: clickhouse
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CoreWeave
+  url: https://www.coreweave.com
+  description: Cloud infrastructure provider specializing in GPU compute for AI workloads.
+  sector: cloud-infrastructure
+  stage: ipo
+  status: ipo
+  source: https://www.coatue.com/privates-portfolio
+  slug: coreweave
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cursor
+  url: https://cursor.com
+  description: AI-native code editor built by Anysphere.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: cursor
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cyera
+  url: https://www.cyera.io
+  description: Data security posture management platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: cyera
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Databricks
+  url: https://www.databricks.com
+  description: Data and AI platform built around the lakehouse architecture.
+  sector: data-infrastructure
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: databricks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Deel
+  url: https://www.deel.com
+  description: Global payroll, HR, and compliance platform for distributed teams.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: deel
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Decagon
+  url: https://decagon.ai
+  description: AI agents platform for customer support automation.
+  sector: artificial-intelligence
+  stage: series-b
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: decagon
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DoorDash
+  url: https://www.doordash.com
+  description: Local commerce and food delivery marketplace.
+  sector: consumer-internet
+  stage: ipo
+  status: ipo
+  source: https://www.coatue.com/privates-portfolio
+  slug: doordash
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Figma
+  url: https://www.figma.com
+  description: Collaborative interface design and product development platform.
+  sector: design
+  stage: ipo
+  status: ipo
+  source: https://www.coatue.com/privates-portfolio
+  slug: figma
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Grafana Labs
+  url: https://www.grafana.com
+  description: Open-source observability and monitoring platform.
+  sector: observability
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: grafana
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Harvey
+  url: https://www.harvey.ai
+  description: Domain-specific generative AI platform for legal and professional services.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: harvey-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Kalshi
+  url: https://kalshi.com
+  description: Regulated event-contracts and prediction markets exchange.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: kalshi
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Notion
+  url: https://www.notion.so
+  description: Connected workspace for notes, docs, projects, and knowledge.
+  sector: productivity
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: notion
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OpenAI
+  url: https://openai.com
+  description: AI research and deployment company behind ChatGPT and the GPT models.
+  sector: artificial-intelligence
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: openai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OpenEvidence
+  url: https://www.openevidence.com
+  description: AI-powered clinical decision support platform for physicians.
+  sector: healthtech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: openevidence
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ramp
+  url: https://www.ramp.com
+  description: Corporate spend management, cards, and finance automation platform.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: ramp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Revolut
+  url: https://www.revolut.com
+  description: Global neobank and financial super-app.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: neobanks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Rippling
+  url: https://www.rippling.com
+  description: Workforce management platform unifying HR, IT, and finance.
+  sector: hr-tech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: rippling
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Scale AI
+  url: https://www.scale.com
+  description: Data platform for AI, providing training data and model evaluation.
+  sector: ai-infrastructure
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: scale-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Snowflake
+  url: https://www.snowflake.com
+  description: Cloud data platform for warehousing, analytics, and data sharing.
+  sector: data-infrastructure
+  stage: ipo
+  status: ipo
+  source: https://www.coatue.com/privates-portfolio
+  slug: snowflake
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SpaceX
+  url: https://www.spacex.com
+  description: Aerospace manufacturer and space launch and satellite internet provider.
+  sector: space
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: spacex-api
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stripe
+  url: https://stripe.com
+  description: Payments and financial infrastructure platform for internet businesses.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Supabase
+  url: https://supabase.com
+  description: Open-source backend-as-a-service and Postgres development platform.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.coatue.com/privates-portfolio
+  slug: supabase
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Uber
+  url: https://www.uber.com
+  description: Global mobility, delivery, and logistics marketplace.
+  sector: consumer-internet
+  stage: ipo
+  status: ipo
+  source: https://www.coatue.com/privates-portfolio
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
