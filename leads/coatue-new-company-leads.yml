@@ -1,18 +1,4 @@
-generated: '2026-07-17'
+generated: '2026-07-22'
 method: derived
 source_vc: coatue
-leads:
-- name: ByteDance
-  url: https://www.bytedance.com
-  suggested_slug: bytedance
-  sector: consumer-internet
-  source_vc: coatue
-  source: https://www.coatue.com/privates-portfolio
-  stub_created: false
-- name: Cerebras Systems
-  url: https://www.cerebras.net
-  suggested_slug: cerebras-systems
-  sector: ai-infrastructure
-  source_vc: coatue
-  source: https://www.coatue.com/privates-portfolio
-  stub_created: false
+leads: []

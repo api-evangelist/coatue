@@ -3,9 +3,9 @@ method: searched
 source: https://www.coatue.com/privates-portfolio
 summary:
   portfolio_total: 29
-  in_network: 27
-  api_providers: 22
-  missing: 2
+  in_network: 29
+  api_providers: 24
+  missing: 0
   stubs_created: 0
 companies:
 - name: Anduril Industries
@@ -37,9 +37,10 @@ companies:
   stage: growth
   status: active
   source: https://www.coatue.com/privates-portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bytedance
+  slug: bytedance
+  matched_by: domain
 - name: Canva
   url: https://www.canva.com
   description: Online visual design and publishing platform.
@@ -58,9 +59,10 @@ companies:
   stage: growth
   status: active
   source: https://www.coatue.com/privates-portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cerebras-systems
+  in_network: true
+  is_api_provider: true
+  slug: cerebras-systems
+  matched_by: name-slug
 - name: ClickHouse
   url: https://www.clickhouse.com
   description: Open-source column-oriented database for real-time analytics.
@@ -104,7 +106,7 @@ companies:
   slug: cyera
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: Databricks
   url: https://www.databricks.com
   description: Data and AI platform built around the lakehouse architecture.
@@ -244,9 +246,9 @@ companies:
   stage: growth
   status: active
   source: https://www.coatue.com/privates-portfolio
-  slug: neobanks
+  slug: revolut
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Rippling
   url: https://www.rippling.com
