@@ -501,10 +501,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: arch
   suggested_slug: getarch-com
   in_network: false
   is_api_provider: false
+  x-name-collision: arch
 - name: Arta Finance
   url: https://artafinance.com/
   status: active
@@ -608,10 +608,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: bereal
   suggested_slug: bere-al
   in_network: false
   is_api_provider: false
+  x-name-collision: bereal
 - name: BharatPe
   url: https://bharatpe.com/
   status: active
@@ -678,10 +678,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: boost-insurance
   suggested_slug: boostplatform-io
   in_network: false
   is_api_provider: false
+  x-name-collision: boost-insurance
 - name: BOSS Zhipin
   url: https://www.zhipin.com
   status: exit
@@ -716,6 +716,7 @@ companies:
   suggested_slug: brud
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://brud.ai
 - name: Bungalow
   url: https://www.bungalow.com
   status: active
@@ -880,15 +881,16 @@ companies:
   suggested_slug: citymaps
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.namepros.com/parked/citymaps.co
 - name: Clara
   url: https://www.clara.cc
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: clara
   suggested_slug: clara-cc
   in_network: false
   is_api_provider: false
+  x-name-collision: clara
 - name: Classin
   url: https://www.classin.com/en
   status: active
@@ -966,6 +968,7 @@ companies:
   suggested_slug: commonstock
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://commonstock.co
 - name: Commonwealth Fusion Systems
   url: https://www.cfs.energy
   status: active
@@ -1153,7 +1156,9 @@ companies:
   slug: dialect
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.dialect.to/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Didi Global
   url: https://www.didiglobal.com
   status: exit
@@ -1353,10 +1358,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: flex
   suggested_slug: getflex-com
   in_network: false
   is_api_provider: false
+  x-name-collision: flex
 - name: FlexCompute
   url: https://www.flexcompute.com
   status: active
@@ -1485,6 +1490,7 @@ companies:
   suggested_slug: gorillas
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://gorillas.io
 - name: GoStudent
   url: https://www.gostudent.org
   status: active
@@ -1580,6 +1586,7 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+  x-url-candidate: https://hopin.com
 - name: HotelTonight
   url: https://www.hoteltonight.com
   status: exit
@@ -1683,6 +1690,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://inxeption.com/en
 - name: iQIYI
   url: https://www.iqiyi.com
   status: exit
@@ -1758,10 +1766,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: keep
   suggested_slug: keep-com
   in_network: false
   is_api_provider: false
+  x-name-collision: keep
 - name: Kikoff
   url: https://kikoff.com/
   status: active
@@ -1978,6 +1986,7 @@ companies:
   suggested_slug: lutra-ai
   in_network: false
   is_api_provider: false
+  x-url-candidate: https://www.lutra.com/
 - name: Lyft
   url: https://www.lyft.com
   status: exit
@@ -2150,10 +2159,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: navan
   suggested_slug: tripactions-com
   in_network: false
   is_api_provider: false
+  x-name-collision: navan
 - name: NDEA
   url: https://ndea.com/
   status: active
@@ -2301,6 +2310,7 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+  x-url-candidate: https://orbit.com
 - name: Origin
   url: https://www.useorigin.com/
   status: active
@@ -2649,10 +2659,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: rox
   suggested_slug: rox-electric-com
   in_network: false
   is_api_provider: false
+  x-name-collision: rox
 - name: Runway
   url: https://www.runwayml.com
   status: active
@@ -2685,10 +2695,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: scala
   suggested_slug: scaladatacenters-com
   in_network: false
   is_api_provider: false
+  x-name-collision: scala
 - name: ServiceTitan
   url: https://www.servicetitan.com/
   status: active
@@ -2711,10 +2721,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: side
   suggested_slug: sideinc-com
   in_network: false
   is_api_provider: false
+  x-name-collision: side
 - name: Sierra Space
   url: https://www.sierraspace.com
   status: active
@@ -2853,10 +2863,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: starburst
   suggested_slug: starburstdata-com
   in_network: false
   is_api_provider: false
+  x-name-collision: starburst
 - name: StarkWare
   url: https://www.starkware.co
   status: active
@@ -2915,10 +2925,10 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: sunday
   suggested_slug: sundayapp-com
   in_network: false
   is_api_provider: false
+  x-name-collision: sunday
 - name: Sunday Robotics
   url: https://www.sunday.ai/
   status: active
@@ -3091,6 +3101,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://universalhydrogen.com
 - name: Unsupervised
   url: https://www.unsupervised.com
   status: active
@@ -3124,7 +3135,9 @@ companies:
   slug: upstream
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://upstreamapp.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Valsoft Corporation
   url: https://www.valsoftcorp.com/
   status: active
@@ -3324,7 +3337,7 @@ companies:
   status: active
   source: https://www.coatue.com/portfolio
   x-added: '2026-10-18'
-  x-name-collision: zuoyebang
   suggested_slug: zybang-com
   in_network: false
   is_api_provider: false
+  x-name-collision: zuoyebang
