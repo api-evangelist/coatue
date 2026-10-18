@@ -241,7 +241,7 @@ leads:
   source: https://www.coatue.com/portfolio
   stub_created: false
 - name: Gorillas
-  url: ''
+  url: https://gorillas.io
   suggested_slug: gorillas
   sector: ''
   source_vc: coatue

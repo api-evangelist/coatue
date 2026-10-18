@@ -716,7 +716,7 @@ companies:
   suggested_slug: brud
   in_network: false
   is_api_provider: false
-  x-url-candidate: https://brud.ai
+  x-url-rejected: https://brud.ai
 - name: Bungalow
   url: https://www.bungalow.com
   status: active
@@ -881,7 +881,7 @@ companies:
   suggested_slug: citymaps
   in_network: false
   is_api_provider: false
-  x-url-candidate: https://www.namepros.com/parked/citymaps.co
+  x-url-rejected: https://www.namepros.com/parked/citymaps.co
 - name: Clara
   url: https://www.clara.cc
   status: active
@@ -968,7 +968,7 @@ companies:
   suggested_slug: commonstock
   in_network: false
   is_api_provider: false
-  x-url-candidate: https://commonstock.co
+  x-url-rejected: https://commonstock.co
 - name: Commonwealth Fusion Systems
   url: https://www.cfs.energy
   status: active
@@ -1490,7 +1490,8 @@ companies:
   suggested_slug: gorillas
   in_network: false
   is_api_provider: false
-  x-url-candidate: https://gorillas.io
+  url: https://gorillas.io
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: GoStudent
   url: https://www.gostudent.org
   status: active
@@ -1986,7 +1987,7 @@ companies:
   suggested_slug: lutra-ai
   in_network: false
   is_api_provider: false
-  x-url-candidate: https://www.lutra.com/
+  x-url-rejected: https://www.lutra.com/
 - name: Lyft
   url: https://www.lyft.com
   status: exit
