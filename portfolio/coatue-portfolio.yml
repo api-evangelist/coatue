@@ -4,7 +4,7 @@ source: https://www.coatue.com/privates-portfolio
 summary:
   portfolio_total: 29
   in_network: 29
-  api_providers: 24
+  api_providers: 23
   missing: 0
   stubs_created: 0
 companies:
@@ -125,7 +125,7 @@ companies:
   stage: growth
   status: active
   source: https://www.coatue.com/privates-portfolio
-  slug: deel
+  slug: deel-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -169,9 +169,9 @@ companies:
   stage: growth
   status: active
   source: https://www.coatue.com/privates-portfolio
-  slug: grafana
+  slug: assertsai
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Harvey
   url: https://www.harvey.ai
